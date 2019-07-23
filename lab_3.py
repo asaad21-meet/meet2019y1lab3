@@ -1,0 +1,6 @@
+print('hello world')
+print('hello fadi')
+user=input('say somthing!')
+print(user.upper()) 
+print(user.lower())
+print(user.swapcase())
